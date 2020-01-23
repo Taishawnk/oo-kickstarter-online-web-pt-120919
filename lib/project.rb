@@ -6,7 +6,8 @@ class Project
     @title = title
     @backers = []
   end
-  
+ 
+ end 
   
   
   
